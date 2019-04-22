@@ -1,0 +1,18 @@
+You will get an odd Integer n (>= 3) and your task is to draw a X. Each line is seperated with '\n'.
+
+Use the following characters:
+
+■ □
+
+For Ruby and Crystal:
+
+whitespace and o
+
+e.g.:
+
+
+                                     ■□□□■                  ■□□□□□■    
+            ■□■                      □■□■□                  □■□□□■□
+  x(3) =>   □■□              x(5)=>  □□■□□          x(7)=>  □□■□■□□
+            ■□■                      □■□■□                  □□□■□□□
+                                     ■□□□■
